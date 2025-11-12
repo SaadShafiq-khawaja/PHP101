@@ -1,8 +1,14 @@
 fix file for practice
 
+bug fix in main branch 
+
+one more message for footer
 one more bug find and fixed
 third bug fix
 
 another fifth bug fix by QA team
 
-changes in fixes
+check diff command
+
+
+changes made
